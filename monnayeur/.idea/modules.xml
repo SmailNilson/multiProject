@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monnayeur.iml" filepath="$PROJECT_DIR$/monnayeur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monnayeur-application/monnayeur-application.iml" filepath="$PROJECT_DIR$/monnayeur-application/monnayeur-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monnayeur-domain/monnayeur-domain.iml" filepath="$PROJECT_DIR$/monnayeur-domain/monnayeur-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monnayeur-infrastructure/monnayeur-infrastructure.iml" filepath="$PROJECT_DIR$/monnayeur-infrastructure/monnayeur-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monnayeur-webapp/monnayeur-webapp.iml" filepath="$PROJECT_DIR$/monnayeur-webapp/monnayeur-webapp.iml" />
+    </modules>
+  </component>
+</project>
